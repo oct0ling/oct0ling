@@ -4,7 +4,7 @@ I am oct0ling! :octopus:
 
 I am a 19 years-old lad from a small town in Milan, Italy. :it:
 
-I love reverse-engineering anything, from legitimate software to malware, hardware and even Windows internals. Mainly to cheat on multiplayer games- learn something new :innocent:
+I love reverse-engineering anything, from legitimate software to malware, hardware and even Windows internals. Mainly to cheat on multiplayer games- I mean... to learn something new :innocent:
 
 My coding expertise mainly focuses on offensive security and anything low-level.
 
